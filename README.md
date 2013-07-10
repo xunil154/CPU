@@ -28,8 +28,8 @@ SETUP:
 
   Running the driver in either a tmux or screen session is useful
 
-  $ tmux -L cpu
-  $ ./CPU/cpu.pl
+  $ tmux -L cpu\
+  $ ./CPU/cpu.pl\
   \#C,8,17,16,14,4,7,12,13,7,M,11346,16331,D,11:34 AM\#
   \#C,8,14,18,4,3,11,19,8,7,M,11346,16331,D,11:34 AM\#
   \#C,8,24,14,3,9,8,12,10,7,M,11345,16331,D,11:34 AM\#
